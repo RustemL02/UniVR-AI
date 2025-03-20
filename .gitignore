@@ -1,0 +1,11 @@
+# Hidden directories.
+.*/
+
+# Environments.
+.venv/
+
+# PyCharm.
+.idea/
+
+# Byte-compiled.
+__pycache__/
